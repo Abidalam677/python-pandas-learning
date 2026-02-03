@@ -1,15 +1,27 @@
 ## Hi there 👋
 
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abid Ali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abid_ali_6677) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abid Alam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abidalam0320@gmail.com) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-Abid_Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AbidAli) 
+[![Instagram](https://img.shields.io/badge/Instagram-abid__ali__6677-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abid_ali_6677) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abid_Alam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbidAlam) 
+[![Email](https://img.shields.io/badge/Email-abidalam0320-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidalam0320@gmail.com)
+
+---
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abidalam677&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abidalam677&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidalam677&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abidalam677&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abidalam677&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidalam677&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abidalam677&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -21,6 +33,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abidalam677&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abidalam677&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Abidalam677&icon=0&color=0" />
+  </a>
+</p>
